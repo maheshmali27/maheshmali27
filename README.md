@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @maheshmali27
 - 👀 I’m interested in web development with modern tech.
-- 🌱 I’m currently learning Node.js with Express and MongoDB.
+- 🔥 I am Full stack web developer in MERN stack.
+- 🤙 Hard knowledge with code in hand in Angular also.
 - 📫 Mail me if you need at maheshmali37195@gmail.com
